@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RYO Ride</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyCgTAQTXKXOYqZo-jDg2jTJOdSb47o8qEg</string>
+</resources>
